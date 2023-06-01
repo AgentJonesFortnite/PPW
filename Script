@@ -307,6 +307,19 @@ game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(63.354789733
  wait()
 game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(63.35478973388672, 21.586769104003906, 2302.98193359375))
  wait()
-
+if Root:FindFirstChild("BodyVelocity") then
 Root.BodyVelocity:Destroy()
+end
+if Root:FindFirstChild("BodyVelocity") then
+Root.BodyVelocity:Destroy()
+end
+if Root:FindFirstChild("BodyVelocity") then
+Root.BodyVelocity:Destroy()
+end
+if Root:FindFirstChild("BodyVelocity") then
+Root.BodyVelocity:Destroy()
+end
+if Root:FindFirstChild("BodyVelocity") then
+Root.BodyVelocity:Destroy()
+end
 _G.FPPTP = true
